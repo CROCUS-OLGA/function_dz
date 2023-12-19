@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\дз по C#\знакомство с яп\ДЗ-функции\bin\Debug\net7.0\ДЗ-функции.exe
+C:\Users\user\Desktop\дз по C#\знакомство с яп\ДЗ-функции\bin\Debug\net7.0\ДЗ-функции.deps.json
+C:\Users\user\Desktop\дз по C#\знакомство с яп\ДЗ-функции\bin\Debug\net7.0\ДЗ-функции.runtimeconfig.json
+C:\Users\user\Desktop\дз по C#\знакомство с яп\ДЗ-функции\bin\Debug\net7.0\ДЗ-функции.dll
+C:\Users\user\Desktop\дз по C#\знакомство с яп\ДЗ-функции\bin\Debug\net7.0\ДЗ-функции.pdb
+C:\Users\user\Desktop\дз по C#\знакомство с яп\ДЗ-функции\obj\Debug\net7.0\ДЗ-функции.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\дз по C#\знакомство с яп\ДЗ-функции\obj\Debug\net7.0\ДЗ-функции.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\дз по C#\знакомство с яп\ДЗ-функции\obj\Debug\net7.0\ДЗ-функции.AssemblyInfo.cs
+C:\Users\user\Desktop\дз по C#\знакомство с яп\ДЗ-функции\obj\Debug\net7.0\ДЗ-функции.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\дз по C#\знакомство с яп\ДЗ-функции\obj\Debug\net7.0\ДЗ-функции.dll
+C:\Users\user\Desktop\дз по C#\знакомство с яп\ДЗ-функции\obj\Debug\net7.0\refint\ДЗ-функции.dll
+C:\Users\user\Desktop\дз по C#\знакомство с яп\ДЗ-функции\obj\Debug\net7.0\ДЗ-функции.pdb
+C:\Users\user\Desktop\дз по C#\знакомство с яп\ДЗ-функции\obj\Debug\net7.0\ДЗ-функции.genruntimeconfig.cache
+C:\Users\user\Desktop\дз по C#\знакомство с яп\ДЗ-функции\obj\Debug\net7.0\ref\ДЗ-функции.dll
